@@ -1,0 +1,13 @@
+E:\Repos\MultiProgress\MultiProgressJob\bin\Debug\MultiProgressJob.exe.config
+E:\Repos\MultiProgress\MultiProgressJob\bin\Debug\MultiProgressJob.exe
+E:\Repos\MultiProgress\MultiProgressJob\bin\Debug\MultiProgressJob.pdb
+E:\Repos\MultiProgress\MultiProgressJob\bin\Debug\Microsoft.CSharp.dll
+E:\Repos\MultiProgress\MultiProgressJob\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Repos\MultiProgress\MultiProgressJob\bin\Debug\System.Data.dll
+E:\Repos\MultiProgress\MultiProgressJob\bin\Debug\System.dll
+E:\Repos\MultiProgress\MultiProgressJob\bin\Debug\System.Net.Http.dll
+E:\Repos\MultiProgress\MultiProgressJob\bin\Debug\System.Xml.dll
+E:\Repos\MultiProgress\MultiProgressJob\bin\Debug\System.Xml.Linq.dll
+E:\Repos\MultiProgress\MultiProgressJob\obj\Debug\MultiProgressJob.csproj.CoreCompileInputs.cache
+E:\Repos\MultiProgress\MultiProgressJob\obj\Debug\MultiProgressJob.exe
+E:\Repos\MultiProgress\MultiProgressJob\obj\Debug\MultiProgressJob.pdb
